@@ -1,4 +1,4 @@
-Di hari ke-11 ini, saya belajar perulangan menggunakan for, jadi semisal kita punya alur seperti dibawah
+Di hari ke-11 ini, saya belajar perulangan menggunakan for, jadi semisal kita punya alur seperti dibawah #Mau nambahin juga kalo for itu untuk data string, list, range dsb
 
  input
    |
@@ -48,3 +48,4 @@ for item in buah:
 Saya suka apel
 Saya suka jeruk
 Saya suka mangga
+
