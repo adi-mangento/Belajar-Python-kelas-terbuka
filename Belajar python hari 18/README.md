@@ -1,0 +1,1 @@
+Di hari 18 saya belajar membuat program menggunakan list
